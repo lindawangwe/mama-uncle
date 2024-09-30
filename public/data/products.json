@@ -1,0 +1,193 @@
+[
+    {
+        "id" : 0,
+        "title": "Sugar",
+        "image": "../images/kabras sugar.jpg",
+        "image_1": "../images/mumias sugar.jpg",
+        "image_2":"../images/nutramealsugar.jpg",
+        "attribute": "Fine grained sugar", 
+        "description" : "Sold from 2kgs to quarter",
+        "brands": "Kabras, Mumias, Nutrameal",
+        "price":"Ksh 250.00"
+    },
+    {
+        "id" : 1,
+        "title": "Tea leaves",
+        "image": "../images/barakachai.jpg",
+        "image_1": "../images/fahari.jpg",
+        "image_2": "../images/tangawizi.jpg",
+        "attribute": "500g-25g", 
+        "description" : "Best of Kenyan tea",
+        "brands": "Fahari, Baraka, Tangawizi", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 2,
+        "title": "Bar Soap",
+        "image": "../images/lidosoap.jpg",
+        "image_1": "../images/jamaasoap.jpg",
+        "image_2": "../images/800gmenengaisoap.jpg",
+        "attribute": "800g to small", 
+        "description" : "",
+        "brand": "Lido, Jamaa, Menengai", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" :"3",
+        "title": "Milk",
+        "image": "../images/crowngoldmilk.jpg",
+        "image_1": "../images/molomilk.jpg",
+        "image_2": "../images/mtkenyamilk.jpg",
+        "attribute": "500g to 250g", 
+        "description" : "",
+        "brand": "Crown, Molo, MtKenya", 
+        "price": "Ksh 239.00"
+
+    },
+    {
+        "id" : 4,
+        "title": "Matchbox",
+        "image":"../images/flora.jpg",
+        "image_0": "../images/1stkflora.jpg",
+        "image_1": "../images/kifarustk.jpg",
+        "image_2": "../images/soliostk.jpg",
+        "attribute": "10packs to 1", 
+        "description" : "",
+        "brand": "Flora, Kifaru, Solio", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 5,
+        "title": "Sanitary Towels",
+        "image": "../images/8packalways.jpg",
+        "image_0":"../images/4packalways.jpg",
+        "image_1": "../images/16kotex.jpg",
+        "image_2": "../images/softcarepad.jpg",
+        "attribute": "16pack to 4pack", 
+        "description" : "",
+        "brand": "Always, Kotex, Softcare", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 6,
+        "title": "Rice",
+        "image": "../images/barakachai.jpg",
+        "image_1": "../images/fahari.jpg",
+        "image_2": "../images/tangawizi.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari, Baraka, Tangawizi", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 7,
+        "title": "Salt",
+        "image": "../images/kensalt.jpg",
+        "image_1": "../images/kaysalt.jpg",
+        "image_2": "../images/kensalt.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "S&S, Daily Brand, Basmati", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 8,
+        "title": "Maize Flour",
+        "image": "../images/ndovumaizeflour.jpg",
+        "image_1": "../images/pembemaizeflour.jpg",
+        "image_2": "../images/sokomaizeflour.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 9,
+        "title": "Tissue",
+        "image": "../images/hanantissue.jpg",
+        "image_1": "../images/rosytissue.jpg",
+        "image_2": "../images/tenatissue.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 10,
+        "title": "Cooking Oil",
+        "image": "../images/ufuta.jpg",
+        "image_1": "../images/rinacookingoil.jpg",
+        "image_2": "../images/freshfri.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 11,
+        "title": "Wheat Flour",
+        "image": "../images/ndovuwheatflour.jpg",
+        "image_1": "../images/pembewheatflour.jpg",
+        "image_2": "../images/exewheatflour.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 12,
+        "title": "Toothpaste",
+        "image": "../images/colgate.jpg",
+        "image_1": "../images/pepsodent.jpg",
+        "image_2": "../images/sensodyne.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 13,
+        "title": "Bread",
+       "image": "../images/broadways.jpg",
+        "image_1": "../images/festivebread.jpg",
+        "image_2": "../images/supaloaf.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 14,
+        "title": "coffee",
+        "image": "../images/nescafe.jpg",
+        "image_1": "../images/maccoffee.jpg",
+        "image_2": "../images/dormans.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 15,
+        "title": "Detergents",
+        "image": "../images/sunlightpowder.jpg",
+        "image_1": "../images/persil.jpg",
+        "image_2": "../images/ariel.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+    },
+    {
+        "id" : 16,
+        "title": "Food additives",
+       "image": "../images/royco.jpg",
+        "image_1": "../images/curripowder.jpg",
+        "image_2": "../images/cubes.jpg",
+        "attribute": "500g", 
+        "description" : "",
+        "brand": "Fahari", 
+        "price": "Ksh 239.00"
+
+    }
+]
